@@ -1,4 +1,5 @@
-[
+{
+  "posts": [
 
   {id:1, radioactivo:false, name:'Missile',description:'low cost proyectile',range:'short'},
   {id:2, radioactivo:true,name:'Nuke',description:'high cost proyectile',range:'long'},
@@ -8,4 +9,4 @@
   {id:6, radioactivo:false,name:'Napalm',description:'this should not be used',range:'non-existent'},
   {id:7, radioactivo:true,name:'Depleted Uranium',description:'death',range:'non-existent'}
 
-]
+ ]}
